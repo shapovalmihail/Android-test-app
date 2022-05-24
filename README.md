@@ -9,3 +9,6 @@
 |  5   | Clearing data| Passed   |
 |  6   | Sending Email| Passed   |
 |  7   | Menu buttons are displayed correctly| failed  | Bug Link |
+|  8   | Correct display of the widget| failed  | Bug Link |
+|  9   | Сlose app | passed |  |
+
