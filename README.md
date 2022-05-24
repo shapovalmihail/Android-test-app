@@ -1,3 +1,4 @@
 # AndroidGridtest-app
 
-|ID|STEP|RESULT|
+| ID | STEP | RESULT|
+|----|----|----|
