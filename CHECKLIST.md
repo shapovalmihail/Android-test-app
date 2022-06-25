@@ -1,6 +1,6 @@
 # Android test-app
 
-| ID | STEP | RESULT| Link |
+| ID | TITLE | RESULT| Link |
 |----|----|----|-----|
 |  1   | Installing App  Android test from APK | Passed   |
 |  2   |Opening the App | Passed   |
