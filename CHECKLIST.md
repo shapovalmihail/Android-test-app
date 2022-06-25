@@ -1,4 +1,4 @@
-# AndroidGridtest-app
+# Android test-app
 
 | ID | STEP | RESULT| Link |
 |----|----|----|-----|
